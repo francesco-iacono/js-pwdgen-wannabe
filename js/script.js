@@ -6,3 +6,5 @@ var favoriteColor = prompt("Your favorite color");
 // console.log(favoriteColor);
 
 document.getElementById('password').innerHTML = nome + sournome + favoriteColor + 19;
+
+document.getElementById('nome').innerHTML = nome;
